@@ -1,0 +1,10 @@
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+
+.Navbar .logo{
+    width: max(4%,20px);
+}
